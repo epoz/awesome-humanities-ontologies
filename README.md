@@ -2,7 +2,7 @@
 
 > A curated list of ontologies for Digital Humanities
 
-*What is an [awesome](https://github.com/sindresorhus/awesome) list?*
+_What is an [awesome](https://github.com/sindresorhus/awesome) list?_
 
 This list collects useful ontologies, vocabularies, terminologies, and taxonomies for modelling and publishing datasets from Humanities domains as [Linked Data](http://linkeddatabook.com/editions/1.0/). If you wish to contribute, [send a PR](https://github.com/albertmeronyo/awesome-humanities-ontologies/pull/new/master) or get in touch with [Albert Meroño](mailto:albert.meronyo@gmail.com) or [Melodee Beals](mailto:m.h.beals@lboro.ac.uk).
 
@@ -15,7 +15,8 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 - [Language](#language)
 
 ## General
-*Persons, places, events, time, documents*
+
+_Persons, places, events, time, documents_
 
 - [CIDOC Conceptual Reference Model (CRM)](http://www.cidoc-crm.org/) - provides definitions and a formal structure for describing the implicit and explicit concepts and relationships used in cultural heritage documentation
 - [CRMinf Argumentation Model](http://www.cidoc-crm.org/crminf/ModelVersion/version-0.7) - an Extension of CIDOC-CRM to support argumentation
@@ -32,7 +33,8 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 - [VIAF](https://viaf.org/) - combines multiple name authority files into a single OCLC-hosted name authority service
 
 ## Cultural Heritage
-*Cultural heritage objects, museums, archaeology, etc.*
+
+_Cultural heritage objects, museums, archaeology, etc._
 
 - [CRMArcheo Excavation Model](https://www.ics.forth.gr/isl/index_main.php?l=e&c=711) - an ontology and RDF Schema to encode metadata about the archaeological excavation process (CIDOC-CRM extensnion)
 - [Europeana Data Model (EDM)](https://pro.europeana.eu/resources/standardization-tools/edm-documentation) - proposal for structuring the data that Europeana will be ingesting, managing and publishing on museums, digital archives and digital libraries
@@ -40,14 +42,17 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 - [JUSO](http://rdfs.co/juso/latest/html#term-doc/) - Juso Ontology is a Web vocabulary for describing geographical addresses and features
 - [PNV](https://www.lodewijkpetram.nl/vocab/pnv/doc/) - The Person Name Vocabulary (PNV) is an rdf vocabulary and data model for persons' names
 - [ROAR](https://leonvanwissen.nl/vocab/roar/docs/) - Ontology to describe person, location etc. observations in archival resources
+- [ICONCLASS](http://iconclass.org/help/lod) - a multilingual classification system for cultural content, the de facto global standard for subject classification
 
 ## Periodicals
-*Newspapers, magazines, etc.*
+
+_Newspapers, magazines, etc._
 
 - [Enumeration and Chronology of Periodicals Ontology (ECPO)](http://cklee.github.io/ecpo/ecpo.html#introduction)
 
 ## Musicology
-*Scores, music metadata, symbolic notations*
+
+_Scores, music metadata, symbolic notations_
 
 - [DOing REusable MUSical data (DOREMUS) datamodel](https://drive.google.com/file/d/0B_nxZpGQv9GKSlhhN2tEUGxDbVU/view) - Events, works, expressions around classic music data
 - [MIDI ontology](https://www.albertmeronyo.org/wp-content/uploads/2017/07/ISWC2017_paper_343.pdf) - for publishing MIDI pieces, tracks, events, and their attributes
@@ -56,9 +61,10 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 - [Music theory ontology (MTO)](https://dl-acm-org.vu-nl.idm.oclc.org/citation.cfm?id=3243913)
 
 ## Language
-*Lexicology, named entity recognition, etc.*
-- [Lexvo](http://www.lexvo.org/) - brings information about languages, words, characters, and other human language-related entities to the Linked Data Web and Semantic Web
 
+_Lexicology, named entity recognition, etc._
+
+- [Lexvo](http://www.lexvo.org/) - brings information about languages, words, characters, and other human language-related entities to the Linked Data Web and Semantic Web
 
 ## License
 
